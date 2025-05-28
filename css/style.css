@@ -1,0 +1,25 @@
+body {
+  background-image:url(https://wallpapers.com/images/hd/1920x1080-hd-sports-hhn774qte3zarg1t.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+}
+video {
+  width: 50%;
+}
+h1,
+h2 {
+  color: rgb(255, 255, 255);
+}
+
+th,
+td {
+  border: 2px solid rgb(75, 45, 186);
+  border-radius: 5px;
+  color: white;
+}
+
+table {
+  float: left;
+  padding-right: 20px;
+}
